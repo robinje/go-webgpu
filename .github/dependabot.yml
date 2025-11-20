@@ -1,0 +1,37 @@
+version: 2
+updates:
+  # Root module
+  - package-ecosystem: "gomod"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # cmd/gen_enums module
+  - package-ecosystem: "gomod"
+    directory: "/cmd/gen_enums"
+    schedule:
+      interval: "weekly"
+
+  # tests module
+  - package-ecosystem: "gomod"
+    directory: "/tests"
+    schedule:
+      interval: "weekly"
+
+  # wgpu module
+  - package-ecosystem: "gomod"
+    directory: "/wgpu"
+    schedule:
+      interval: "weekly"
+
+  # wgpuext/glfw module
+  - package-ecosystem: "gomod"
+    directory: "/wgpuext/glfw"
+    schedule:
+      interval: "weekly"
+
+  # GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
