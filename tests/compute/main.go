@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/rajveermalviya/go-webgpu/wgpu"
+	"github.com/robinje/go-webgpu/wgpu"
 
 	_ "embed"
 )

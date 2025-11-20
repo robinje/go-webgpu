@@ -1,4 +1,4 @@
-module github.com/rajveermalviya/go-webgpu/cmd/gen_enums
+module github.com/robinje/go-webgpu/cmd/gen_enums
 
 go 1.24
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/rajveermalviya/go-webgpu/wgpu"
+	"github.com/robinje/go-webgpu/wgpu"
 )
 
 var forceFallbackAdapter = os.Getenv("WGPU_FORCE_FALLBACK_ADAPTER") == "1"

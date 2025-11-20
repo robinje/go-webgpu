@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/go-gl/glfw/v3.3/glfw"
-	"github.com/rajveermalviya/go-webgpu/wgpu"
-	wgpuext_glfw "github.com/rajveermalviya/go-webgpu/wgpuext/glfw"
+	"github.com/robinje/go-webgpu/wgpu"
+	wgpuext_glfw "github.com/robinje/go-webgpu/wgpuext/glfw"
 
 	_ "embed"
 )

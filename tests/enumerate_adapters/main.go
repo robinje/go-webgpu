@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rajveermalviya/go-webgpu/wgpu"
+	"github.com/robinje/go-webgpu/wgpu"
 )
 
 func main() {

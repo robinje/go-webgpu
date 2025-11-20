@@ -1,3 +1,3 @@
-module github.com/rajveermalviya/go-webgpu/wgpu
+module github.com/robinje/go-webgpu/wgpu
 
 go 1.24

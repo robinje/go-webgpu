@@ -16,10 +16,10 @@ included static libs are built via [github actions](./.github/workflows/build-wg
 | [![b-i]][b] | [![c-i]][c] | [![t-i]][t] |
 
 [b-i]: https://raw.githubusercontent.com/rajveermalviya/go-webgpu/main/tests/boids/image-msaa.png
-[b]: https://github.com/rajveermalviya/go-webgpu-examples/tree/main/boids
+[b]: https://github.com/robinje/go-webgpu-examples/tree/main/boids
 [c-i]: https://raw.githubusercontent.com/rajveermalviya/go-webgpu/main/tests/cube/image-msaa.png
-[c]: https://github.com/rajveermalviya/go-webgpu-examples/tree/main/cube
+[c]: https://github.com/robinje/go-webgpu-examples/tree/main/cube
 [t-i]: https://raw.githubusercontent.com/rajveermalviya/go-webgpu/main/tests/triangle/image-msaa.png
-[t]: https://github.com/rajveermalviya/go-webgpu-examples/tree/main/triangle
+[t]: https://github.com/robinje/go-webgpu-examples/tree/main/triangle
 
-you can check out all the examples in [go-webgpu-examples repo](https://github.com/rajveermalviya/go-webgpu-examples)
+you can check out all the examples in [go-webgpu-examples repo](https://github.com/robinje/go-webgpu-examples)

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go mod tidy:*)",
+      "Bash(go vet:*)",
+      "Bash(export PATH=\"$PATH:/c/msys64\")",
+      "Bash(export CC=\"c:/msys64/clang64.exe\")",
+      "Bash(export CGO_ENABLED=1)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
